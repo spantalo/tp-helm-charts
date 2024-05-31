@@ -1,0 +1,33 @@
+dependencies:
+- name: tp-cp-configuration
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.17
+- name: tp-cp-recipes
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.52
+- name: tp-cp-o11y
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.12
+- name: tp-cp-core
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.7819
+- name: tp-cp-core-ops
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.7819
+- name: tp-cp-core-finops
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.372
+- name: tp-cp-integration
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.36
+- name: tp-cp-tibcohub-contrib
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.9
+- name: tp-cp-msg-contrib
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.24
+- name: tp-cp-hawk
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.14
+digest: sha256:0be794f53986986a9442d96ea0c06e62043757434842a8e2d5051a98c0e03574
+generated: "2024-05-31T08:45:02.384413932+02:00"
