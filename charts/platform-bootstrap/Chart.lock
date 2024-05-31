@@ -1,0 +1,6 @@
+dependencies:
+- name: tp-cp-bootstrap
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.27
+digest: sha256:f2d8546ca459c575193bef80713b534007e4c1a9e448aafea2b32cc6730d2361
+generated: "2024-05-31T08:34:03.111128754+02:00"

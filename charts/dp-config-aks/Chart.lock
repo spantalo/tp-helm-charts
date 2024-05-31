@@ -1,0 +1,12 @@
+dependencies:
+- name: traefik
+  repository: https://traefik.github.io/charts
+  version: 24.0.0
+- name: ingress-nginx
+  repository: https://kubernetes.github.io/ingress-nginx
+  version: 4.7.2
+- name: kong
+  repository: https://charts.konghq.com
+  version: 2.33.3
+digest: sha256:9bf47cf4aabbdda06f9919bf37ebb2c19f1444f25ba0f1b41e6f830bbcddf21f
+generated: "2024-05-31T08:36:21.898640609+02:00"
