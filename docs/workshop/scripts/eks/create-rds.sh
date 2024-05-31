@@ -60,9 +60,10 @@ aws rds create-db-instance \
   --db-subnet-group-name ${CP_CLUSTER_NAME}-subnet-group${_flag_publicly_accessible} \
   --allocated-storage 20 \
   --no-multi-az \
-#  --engine-version 14.8 \
   --vpc-security-group-ids ${_rds_group_id} \
   --no-paginate
+#  --engine-version 14.8 \
+
 
 if [ "${WAIT_FOR_RESOURCE_AVAILABLE}" == "true" ]; then
   echo "Waiting for RDS db instance to be available"
