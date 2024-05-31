@@ -1,0 +1,6 @@
+dependencies:
+- name: eck-custom-resources-operator
+  repository: https://xco-sk.github.io/eck-custom-resources/
+  version: 0.5.6
+digest: sha256:a4ae0a6046ffb3565f7110ce1df57df58b0d048435047f0b2ff2daa5b70ea8ed
+generated: "2024-05-31T08:40:07.499482064+02:00"

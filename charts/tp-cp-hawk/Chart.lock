@@ -1,0 +1,9 @@
+dependencies:
+- name: tp-cp-hawk-infra-querynode
+  repository: ""
+  version: 1.2.*
+- name: tp-cp-hawk-infra-prometheus
+  repository: ""
+  version: 1.2.*
+digest: sha256:67216dcfb1b7ccc30fcb9e2998ad58bc9d3b29615ca5026f69c6f6615b24054f
+generated: "2024-05-31T08:41:50.465542836+02:00"

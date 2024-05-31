@@ -1,0 +1,18 @@
+dependencies:
+- name: hybrid-proxy
+  repository: ""
+  version: 1.2.*
+- name: resource-set-operator
+  repository: ""
+  version: 1.2.*
+- name: router-operator
+  repository: ""
+  version: 1.2.*
+- name: compute-services
+  repository: ""
+  version: 1.2.*
+- name: otel-collector
+  repository: ""
+  version: 0.89.*
+digest: sha256:0e49eea8b4eb503f2389e2821b8ed7e498241cfe0c991ff4c87d8ae69258b1ff
+generated: "2024-05-31T08:41:13.448214999+02:00"

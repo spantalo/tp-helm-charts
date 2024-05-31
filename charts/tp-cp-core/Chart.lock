@@ -1,0 +1,30 @@
+dependencies:
+- name: admin-webserver
+  repository: ""
+  version: 1.2.*
+- name: web-server
+  repository: ""
+  version: 1.2.*
+- name: orchestrator
+  repository: ""
+  version: 1.2.*
+- name: user-subscriptions
+  repository: ""
+  version: 1.2.*
+- name: email-service
+  repository: ""
+  version: 1.2.*
+- name: cronjobs
+  repository: ""
+  version: 1.2.*
+- name: identity-management
+  repository: ""
+  version: 1.2.*
+- name: identity-provider
+  repository: ""
+  version: 1.2.*
+- name: pengine
+  repository: ""
+  version: 1.2.*
+digest: sha256:237a84a92b0e4aa1cbca8c75fcc1710329976000766f2da8e853b41f7d6796f7
+generated: "2024-05-31T08:41:28.491511291+02:00"

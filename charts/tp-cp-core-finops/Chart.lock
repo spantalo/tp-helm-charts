@@ -1,0 +1,18 @@
+dependencies:
+- name: monitoring-service
+  repository: ""
+  version: 1.2.*
+- name: finops-service
+  repository: ""
+  version: 1.2.*
+- name: finops-prometheus
+  repository: ""
+  version: 1.2.*
+- name: finops-web-server
+  repository: ""
+  version: 1.2.*
+- name: finops-otel-collector
+  repository: ""
+  version: 1.2.*
+digest: sha256:4fe09407287094fa3ded768eab5ec05326fb68862d37524e254413b02793c786
+generated: "2024-05-31T08:41:35.255600273+02:00"

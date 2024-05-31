@@ -1,0 +1,6 @@
+dependencies:
+- name: bwce-utilities
+  repository: ""
+  version: 1.2.*
+digest: sha256:9a2e2b347fe04706375a3b394b886b8e8695fca63bba75a8897a5ab08dbc6579
+generated: "2024-05-31T08:41:21.331104321+02:00"

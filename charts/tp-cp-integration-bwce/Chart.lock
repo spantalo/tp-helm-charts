@@ -1,0 +1,6 @@
+dependencies:
+- name: bw-webserver
+  repository: ""
+  version: 1.2.*
+digest: sha256:611db71f5204329b508b34c9a3564bf74da56614a876458ad75d4c1dac98eac1
+generated: "2024-05-31T08:42:33.932968752+02:00"

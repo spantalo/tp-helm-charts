@@ -1,0 +1,6 @@
+dependencies:
+- name: o11y-service
+  repository: ""
+  version: 1.2.*
+digest: sha256:00d8bc2ad3b67524694ea8fb91d0f60c6568b826e4771f6a35456b08e9c6163c
+generated: "2024-05-31T08:42:53.868902246+02:00"

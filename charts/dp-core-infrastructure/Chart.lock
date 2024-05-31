@@ -1,0 +1,15 @@
+dependencies:
+- name: tp-tibtunnel
+  repository: ""
+  version: 1.2.*
+- name: tp-provisioner-agent
+  repository: ""
+  version: 1.2.*
+- name: config
+  repository: ""
+  version: 1.0.*
+- name: haproxy
+  repository: ""
+  version: 1.39.0
+digest: sha256:396fa74bded73ac875439977c85d233652669dc3358f66f43be24c2a2c74dbe2
+generated: "2024-05-31T08:40:18.165482635+02:00"

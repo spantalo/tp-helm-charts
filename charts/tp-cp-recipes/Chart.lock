@@ -1,0 +1,21 @@
+dependencies:
+- name: tp-cp-infra-recipes
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.29
+- name: tp-cp-bwce-recipes
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.14
+- name: tp-cp-flogo-recipes
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.20
+- name: tp-cp-tibcohub-recipes
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.13
+- name: dp-oauth2proxy-recipes
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.7
+- name: tp-cp-servicemesh-recipes
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.13
+digest: sha256:ae86c91a60db26546b854f78256951515949b05431b412c63550c29708c88511
+generated: "2024-05-31T08:43:00.642969861+02:00"

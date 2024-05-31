@@ -1,0 +1,21 @@
+dependencies:
+- name: tp-cp-integration-common
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.5
+- name: tp-cp-integration-bwce
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.21
+- name: tp-cp-integration-flogo
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.13
+- name: tp-cp-integration-bw5
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.17
+- name: tp-cp-bwce-utilities
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.11
+- name: tp-cp-flogo-utilities
+  repository: https://raw.githubusercontent.com/spantalo/tp-helm-charts/main
+  version: 1.2.20
+digest: sha256:e2630246e1f2141c9a3f3f6aea57d8bb59c0690bb52d33d1552e111458f17aba
+generated: "2024-05-31T08:41:57.332964015+02:00"

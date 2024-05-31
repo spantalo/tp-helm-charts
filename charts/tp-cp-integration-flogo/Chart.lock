@@ -1,0 +1,6 @@
+dependencies:
+- name: flogo-webserver
+  repository: ""
+  version: 1.2.*
+digest: sha256:355ec7acd1030ddcebd1c8aec0b90a7d0110e65c66147488349f0f5a60c00427
+generated: "2024-05-31T08:42:47.083889298+02:00"
